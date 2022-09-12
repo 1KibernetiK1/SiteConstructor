@@ -1,0 +1,42 @@
+footer{
+    margin-top: 50px;
+    min-height: 200px;
+    background-color: white;
+    justify-content: center;
+}
+.template_selection_section{
+    text-align: center;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+.footer_logo{
+  font-weight: 600;
+  line-height: 1.14;
+  text-transform: uppercase;
+  max-width: 30px;
+  margin-left: 1px;
+}
+
+.footer_list{
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.footer_list__street{
+  padding-bottom: 20px;
+}
+.footer_links{
+  margin-left: 1px;
+}
+.hide_element{
+  display: none;
+}
